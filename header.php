@@ -22,6 +22,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="email=no,telephone=no,address=no">
+    <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/img/favicon.ico" type="image/x-icon">
     <title>PivottAサステナ　サステナビリティ動画配信サービス</title>
     <meta name="description" content="PivottAサステナは身近なテーマでサステナビリティを気軽に学べる、動画配信サービスです。動画コンテンツを150本以上配信しています。">
     <meta property="og:title" content="PivottAサステナ　サステナビリティ動画配信サービス">
